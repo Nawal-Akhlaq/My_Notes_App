@@ -1,0 +1,10 @@
+os
+yt-dlp
+gradio
+faster-whisper
+gtts
+deep-translator
+fpdf
+python-docx
+transformers
+huggingface_hub
