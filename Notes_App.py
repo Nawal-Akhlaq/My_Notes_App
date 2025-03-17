@@ -151,5 +151,5 @@ with gr.Blocks() as app:
         btn_process = gr.Button("Process Note")
         btn_process.click(note_app, inputs=[note_text, action, language], outputs=[result, file_output])
 
-app.launch(share=True,server_port=7863)
+app.launch(share=False)
 
