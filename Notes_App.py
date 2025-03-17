@@ -16,7 +16,7 @@ from transformers import pipeline
 from huggingface_hub import login
 
 # Authenticate Hugging Face
-login("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")
+login("YOUR_HUGGING_FACE_TOKEN")
 
 # Setup directories
 UPLOAD_PATH = "uploads"
@@ -151,5 +151,5 @@ with gr.Blocks() as app:
         btn_process = gr.Button("Process Note")
         btn_process.click(note_app, inputs=[note_text, action, language], outputs=[result, file_output])
 
-app.launch(share=False)
 
+app.launch(share=False)
