@@ -1,0 +1,10 @@
+!pip install os
+!pip install yt-dlp
+!pip install gradio
+!pip install faster-whisper
+!pip install gtts
+!pip install deep-translator
+!pip install fpdf
+!pip install python-docx
+!pip install transformers
+!pip install huggingface_hub
