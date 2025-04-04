@@ -49,9 +49,6 @@ This AI-powered web application automates transcription, summarization, translat
 ## Contributions
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
-## License
-This project is licensed under the MIT License.
-
 ## Acknowledgments
 Special thanks to the **open-source community** for providing the amazing libraries that power this application!
 
